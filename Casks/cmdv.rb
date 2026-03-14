@@ -1,6 +1,6 @@
 cask "cmdv" do
-  version "0.1.6"
-  sha256 "cbf750de54a9fbe85a7a8818a79207b09515d8e9cefe508cd608d09a3e9b3918"
+  version "0.1.7"
+  sha256 "353fb93cd33519b08bf8ca00750dc1ec0d346343cb98ff9e272f2fdc06719663"
 
   url "https://github.com/ddhgo/CmdV/releases/download/v#{version}/CmdV-v#{version}.zip"
   name "CmdV"
